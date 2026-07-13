@@ -208,23 +208,7 @@ See `requirements.txt`:
 - `python-dotenv`: Environment variable management
 - `requests`: HTTP client for Open-Meteo API calls
 
-## 📄 License
 
-This project is submitted as coursework for McGill University. See LICENSE for details.
-
-## 👤 Author
-
-**Syed Shaheryar Haider**  
-Student ID: 261248339  
-McGill University - Desautels Faculty of Management
-
-## 🤝 Contributing
-
-This is an academic project. Feedback, suggestions, and improvements are welcome via issues or pull requests.
-
-## ❓ Questions?
-
-For questions about the architecture, design decisions, or implementation details, refer to the PDF report included in the repository.
 
 ---
 
